@@ -1,0 +1,6 @@
+{
+  "xpathProductWithText": "//android.widget.FrameLayout//android.widget.RelativeLayout[2]//android.widget.ScrollView//android.widget.TextView[@text=\"{text}\"]",
+  "buttonProductDetailWithText": "//android.widget.FrameLayout//android.widget.RelativeLayout[2]//android.widget.ScrollView//android.widget.Button[@text=\"{text}\"]",
+  "buttonGoToCart": "wrteam.multivendor.customer:id/btnCart",
+  "xpathProductInCartScreenWithText": "//android.widget.FrameLayout//android.widget.RelativeLayout[4]//android.widget.ScrollView//android.widget.TextView[@text=\"{text}\"]"
+}

@@ -1,0 +1,3 @@
+{
+  "buttonContinueAddress": "//android.widget.ImageButton[@resource-id=\"wrteam.multivendor.customer:id/fabAddAddress\"]//following-sibling::android.widget.RelativeLayout//android.widget.TextView[@text=\"CONTINUE\"]"
+}

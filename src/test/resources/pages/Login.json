@@ -1,0 +1,7 @@
+{
+  "textboxMobile": "wrteam.multivendor.customer:id/edtLoginMobile",
+  "textboxPassword": "wrteam.multivendor.customer:id/imgLoginPassword",
+  "buttonLoginPage": "wrteam.multivendor.customer:id/btnLogin",
+  "buttonForgotPassword": "wrteam.multivendor.customer:id/tvForgotPass",
+  "buttonSignUp": "wrteam.multivendor.customer:id/tvSignUp"
+}

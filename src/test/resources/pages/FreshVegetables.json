@@ -1,0 +1,4 @@
+{
+  "viewAllFreshProducts": "//android.widget.TextView[@text='Fresh Vagetables']//following-sibling::android.widget.TextView[@text=\"View All\"]",
+  "getProductName": "(//androidx.recyclerview.widget.RecyclerView//android.widget.FrameLayout//android.widget.RelativeLayout[2]//android.widget.RelativeLayout//android.widget.TextView)[{text}]"
+}

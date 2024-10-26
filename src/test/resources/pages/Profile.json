@@ -1,0 +1,20 @@
+{
+  "buttonMenuHome": "wrteam.multivendor.customer:id/tvMenuHome",
+  "buttonMenuCart": "wrteam.multivendor.customer:id/tvMenuCart",
+  "buttonMenuNoti": "wrteam.multivendor.customer:id/tvMenuNotification",
+  "buttonMenuOrders": "wrteam.multivendor.customer:id/tvMenuOrders",
+  "buttonMenuWalletHistory": "wrteam.multivendor.customer:id/tvMenuWalletHistory",
+  "buttonMenuTransactionHistory": "wrteam.multivendor.customer:id/tvMenuTransactionHistory",
+  "buttonMenuChangePass": "wrteam.multivendor.customer:id/tvMenuChangePassword",
+  "buttonMenuManageAddress": "wrteam.multivendor.customer:id/tvMenuManageAddresses",
+  "buttonMenuReferEarn": "wrteam.multivendor.customer:id/tvMenuReferEarn",
+  "buttonMenuContactUs": "wrteam.multivendor.customer:id/tvMenuContactUs",
+  "buttonMenuAboutUs": "wrteam.multivendor.customer:id/tvMenuAboutUs",
+  "buttonMenuRateUs": "wrteam.multivendor.customer:id/tvMenuRateUs",
+  "buttonMenuShareApp": "wrteam.multivendor.customer:id/tvMenuShareApp",
+  "buttonMenuFAQ": "wrteam.multivendor.customer:id/tvMenuFAQ",
+  "buttonMenuTermCondition": "wrteam.multivendor.customer:id/tvMenuTermsConditions",
+  "buttonMenuPrivacyPolicy": "wrteam.multivendor.customer:id/tvMenuPrivacyPolicy",
+  "buttonMenuLogout": "wrteam.multivendor.customer:id/tvMenuLogout"
+
+}

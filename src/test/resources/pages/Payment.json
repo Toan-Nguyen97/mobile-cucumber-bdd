@@ -1,0 +1,9 @@
+{
+  "textAddress": "wrteam.multivendor.customer:id/tvAddress",
+  "grandTotal": "wrteam.multivendor.customer:id/tvGrandTotal",
+  "orderSummaryNameProd": "wrteam.multivendor.customer:id/tvItemName",
+  "deliveryCharge": "wrteam.multivendor.customer:id/tvDeliveryCharge",
+  "youSaved": "wrteam.multivendor.customer:id/tvSaveAmount",
+  "subTotal": "wrteam.multivendor.customer:id/tvSubTotal",
+  "totalPrice": "(//android.widget.TextView[contains(@text,\"{text}\")]//following-sibling::android.widget.TextView)[3]"
+}

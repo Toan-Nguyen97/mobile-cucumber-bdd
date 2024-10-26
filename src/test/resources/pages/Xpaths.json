@@ -1,0 +1,7 @@
+{
+  "textView": "//android.widget.TextView[@text=\"{text}\"]",
+  "viewAllCoffeeScreen":"//android.widget.TextView[@text='Coffee']//following-sibling::android.widget.TextView[@text=\"View All\"]",
+  "buttonLogin": "wrteam.multivendor.customer:id/btnLogin",
+  "buttonProfile": "wrteam.multivendor.customer:id/navProfile",
+  "welcomeGuest": "wrteam.multivendor.customer:id/lytProfile"
+}

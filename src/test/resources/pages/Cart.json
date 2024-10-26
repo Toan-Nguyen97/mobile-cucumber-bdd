@@ -1,0 +1,13 @@
+{
+  "buttonAddToCartByNameProduct": "//android.widget.TextView[@text=\"{text}\"]//parent::android.widget.RelativeLayout//parent::android.widget.RelativeLayout//following-sibling::android.widget.LinearLayout//android.widget.Button[@text=\"Add to Cart\"]",
+  "buttonAddQuanityByNameProduct": "(//android.widget.TextView[@text=\"{text}\"]//parent::android.widget.RelativeLayout//parent::android.widget.RelativeLayout//following-sibling::android.widget.LinearLayout//android.widget.ImageButton)[2]",
+  "cartIcon": "wrteam.multivendor.customer:id/toolbar_cart",
+  "priceProdByNameProd": "(//android.widget.TextView[@text=\"{text}\"]//following-sibling::android.widget.LinearLayout//android.widget.TextView)[1]",
+  "measurementByNameProd": "(//android.widget.TextView[@text=\"{text}\"]//following-sibling::android.widget.LinearLayout//android.widget.TextView)[3]",
+  "totalPriceByNameProd": "//android.widget.TextView[@text=\"{text}\"]//following-sibling::android.widget.TextView",
+  "buttonDeleteByNameProd": "//android.widget.RelativeLayout[android.widget.TextView[@text=\"{text}\"]]//following-sibling::android.widget.LinearLayout//android.widget.TextView[@text=\"Delete\"]",
+  "totalQuanityByNameProd": "//android.widget.RelativeLayout[android.widget.TextView[@text=\"{text}\"]]//following-sibling::android.widget.LinearLayout//android.widget.TextView[@resource-id=\"wrteam.multivendor.customer:id/tvQuantity\"]",
+  "buttonSaveForLaterByNameProd": "//android.widget.RelativeLayout[android.widget.TextView[@text=\"{text}\"]]//following-sibling::android.widget.LinearLayout//android.widget.TextView[@text=\"Save for later\"]",
+  "buttonUsePromoCode": "wrteam.multivendor.customer:id/tvPromoCode",
+  "buttonContinue": "wrteam.multivendor.customer:id/tvConfirmOrder"
+}

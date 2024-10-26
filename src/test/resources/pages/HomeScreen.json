@@ -1,0 +1,9 @@
+{
+  "skippButton": "wrteam.multivendor.customer:id/tvSkip",
+  "nextButton": "wrteam.multivendor.customer:id/tvNext",
+  "messageText": "wrteam.multivendor.customer:id/tvMessage",
+  "getStarted": "wrteam.multivendor.customer:id/tvNext",
+  "textboxSearchPin": "wrteam.multivendor.customer:id/searchView",
+  "btnSearch": "wrteam.multivendor.customer:id/tvSearch",
+  "locationDelivery": "//android.widget.TextView[@text=\"{text}\"]"
+}
